@@ -14,8 +14,9 @@
             <li><a href="#summary">Özet</a></li>
             <li><a href="#education">Eðitim</a></li>
             <li><a href="#skills">Yetenekler</a></li>
-            <li><a href="#contact">Ýletiþim</a></li>
             <li><a href="#hopesndreamz">Hayaller</a></li>
+            <li><a href="#contact">Ýletiþim</a></li>
+            
         </ul>
     </nav>
 </header>
