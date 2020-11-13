@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>neyir "kiwi" demiray</title>
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+</head>
+<body>
+<header>
+    <h1>neyir "kiwi" demiray</h1>
+    <img src="img/image.jpg" width="300" alt="ben"/>
+    <nav>
+        <ul>
+            <li><a href="#summary">Özet</a></li>
+            <li><a href="#education">Eðitim</a></li>
+            <li><a href="#skills">Yetenekler</a></li>
+            <li><a href="#contact">Ýletiþim</a></li>
+            <li><a href="#hopesndreamz">Hayaller</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <article>
+        <section id="summary">
+            <h2>
+                Özet
+            </h2>
+            <p>
+               10. sýnýf. öðrenci. hayatýmýn tamamýný buraya yazsak özet sayýlamayacak kadar sýkýcý olur
+            </p>
+        </section>
+        <section id="education">
+            <h2>Eðitim</h2>
+            <ul>
+				<li>
+                    <strong >[REDACTED]</strong><br>
+                    <small>[REDACTED]</small><br>
+                </li>
+                <li>
+                    <strong >Kabataþ Erkek Lisesi</strong><br>
+                    '23<br>
+                </li>
+                </li>
+            </ul>
+        </section>
+        <section id="skills">
+            <h2>Yetenekler</h2>
+            <ol>
+                <li>
+                    boþ iþ
+                </li>
+                <li>
+                    her þeyi son dakika yapmak
+                </li>
+            </ol>
+        </section>
+    </article>
+</main>
+<footer>
+    <section id="hopesndreamz">
+            <h2>
+                Hayaller
+            </h2>
+            <p>
+               Yazýlýmda geliþip takýmda bi iþe yaramak. Sonunda kaybettiðim motivasyonu bulup oyun yapmayý öðrenmek.
+            </p>
+        </section>
+       <section id="contact">
+        <h2>Ýletiþim</h2>
+        <ul>
+            <li>
+                <a href="mailto:nhrdemiray@gmail.com">E-mail</a>
+            </li>
+			<li><a href="https://kelrot17.github.io/dnme/">Github</a></li>
+        </ul>
+    </section>
+ 
+</footer>
+</body>
+</html>
