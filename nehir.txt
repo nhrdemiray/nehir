@@ -71,7 +71,7 @@
             <li>
                 <a href="mailto:nhrdemiray@gmail.com">E-mail</a>
             </li>
-			<li><a href="https://kelrot17.github.io/dnme/">Github</a></li>
+			<li><a href="https://nhrdemiray.github.io/nehirsitedeneme/">Github</a></li>
         </ul>
     </section>
  
